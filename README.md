@@ -74,23 +74,22 @@
 
 ## Results
 
-    * All output files will be populated in root folder i.e where asked script are.
+* All output files will be populated in root folder
 
 ## Programming Language used
 
 1. python3
 
 ## Libraries and modules used
-
-    1. os
-    2. csv
-    3. json
-    4. pandas
-    5. numpy
-    6. statistics
-    7. re
-    8. urllib.request
-    9. matplotlib
+1. os
+2. csv
+3. json
+4. pandas
+5. numpy
+6. statistics
+7. re
+8. urllib.request
+9. matplotlib
 
 ## Data used
 
@@ -111,7 +110,7 @@
     * This downloaded json file maintain records of corona cases at district level.
 
 2. obsdist_stateID.py
-.
+
     * This script prepare a csv file which store meta related to observed districts which is needed in later part of program.
     * Generated CSV will be stored in folder helper-folder/obsdist_stateID
 
@@ -207,4 +206,5 @@
     * Used this script to see whether the number of hot spot are increasing or decreasing.
 
 Thanks you very much !
+
 Virendra Nishad
