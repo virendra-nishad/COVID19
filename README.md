@@ -2,12 +2,12 @@
 
 ## How to run this project
 
-    * This program is implemented sequentially, hence there might be dependence of one script on other.
-    * There are sh script provided in root folder to run various modules individually without worrying about dependency.
-    * There is also an script named "assign1.sh" which runs the entire program and create result as a text file named as output1.txt and output2.txt along with other output csv files needed. This output files are basically hot spot and cold spot as asked in question 7 and 8, but they contains name of district in place of id of districts.
-    * assign1.sh should be run to save time as it will run entire project at once and generate all result.
-    * All result files will be populated in root folder with name as said in assignment
-    * Also there is a script named data_plot.sh which will plot bar plot of weekly cases of districts and also it will plot number of weekly hot spot for various method.
+* This program is implemented sequentially, hence there might be dependence of one script on other.
+* There are sh script provided in root folder to run various modules individually without worrying about dependency.
+* There is also an script named "assign1.sh" which runs the entire program and create result as a text file named as output1.txt and output2.txt along with other output csv files needed. This output files are basically hot spot and cold spot as asked in question 7 and 8, but they contains name of district in place of id of districts.
+* assign1.sh should be run to save time as it will run entire project at once and generate all result.
+* All result files will be populated in root folder with name as said in assignment
+* Also there is a script named data_plot.sh which will plot bar plot of weekly cases of districts and also it will plot number of weekly hot spot for various method.
 
 ## Scripts
 
